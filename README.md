@@ -30,7 +30,6 @@ Step 4: Then after all the dependencies are install, type npm start to start the
 
 Step 5: Enjoy!
 
-##DEMO
 <img src="https://user-images.githubusercontent.com/39118679/235516311-d900be57-463c-494b-b14f-3b72bff8c505.gif" width="500" height="250"/>
 
 
