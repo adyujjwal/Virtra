@@ -30,4 +30,5 @@ Step 4: Then after all the dependencies are install, type npm start to start the
 
 Step 5: Enjoy!
 
-![Screen_Recording_2023-05-02_at_12_57_03_AM_AdobeExpress](https://user-images.githubusercontent.com/39118679/235516245-003ab833-f830-4652-ac1b-43d9e69422a3.gif)
+![Screen_Recording_2023-05-02_at_12_57_03_AM_AdobeExpress](https://user-images.githubusercontent.com/39118679/235516311-d900be57-463c-494b-b14f-3b72bff8c505.gif)
+
