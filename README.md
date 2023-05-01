@@ -6,7 +6,7 @@
 
 Want to see the future of hotel bookings??
 
-Your search is over as I have developed an application that allows to view in your hotel in full 360 view. The solution works on a VR headset as well on the brower
+Your search is over as I have developed an application that allows to view in your hotel in full 360 view. The solution works on a VR headset as well on the browser.
 
 ## Contents
 
@@ -15,22 +15,18 @@ Your search is over as I have developed an application that allows to view in yo
 
 ## Introduction
 
-An application developed using React 360 that allows 
+An application developed using React 360 that gives user a fully 360 gamified hotel viewing experience that helps them to have a better look of their
+hotel before making the booking. We also have a safety feature that allows user to view the neighbourhood of the hotels. 
 
 ## Steps to Install
 
-Step 1: Go to the following Link : https://tambola.netlify.app/
+Step 1: Clone the repo.
 
-Step 2: Click on the button "Get Your Ticket Here" to get your ticket.
+Step 2: Follow the steps in the given link to install React 360 on your system https://github.com/facebookarchive/react-360/blob/master/docs/setup.md.
 
-Step 3: Add your first name in the textbox and click on Add button.
+Step 3: Open terminal inside the folder and type npm install.
 
-Step 4: A new card will appear on the screen, Click on your name to open the ticket.
+Step 4: Then after all the dependencies are install, type npm start to start the application.
 
-(The Host can use any Tambola number generator to call out the numbers).
+Step 5: Enjoy!
 
-Step 5: Click on the numbers when they are called out to keep a track of numbers that has been called.
-
-Step 6: Enjoy!
-
-![Black and Gold Elegant Card Background ](https://user-images.githubusercontent.com/39118679/211218561-e1017479-9f20-49c7-9cf1-fe45fe035171.png)
